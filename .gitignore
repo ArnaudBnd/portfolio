@@ -1,0 +1,25 @@
+# Dépendances
+node_modules/
+
+# Dossiers de sortie de build
+.next/
+out/
+
+.history/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environnement local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dossier de déploiement
+.DS_Store
