@@ -3,9 +3,9 @@
 import { useEffect, useRef } from "react";
 import useOnScreen from "@/hooks/useOnScreen";
 import useScrollActive from "@/hooks/useScrollActive";
-import PortailWeb from "@/public/assets/projects/Portail-web.jpg";
-import HubAPI from "@/public/assets/projects/HubAPI.jpg";
-import Demonstrateur from "@/public/assets/projects/démonstrateur.png";
+import PortailWeb from "@/public/assets/projects/portail-web.jpg";
+import HubAPI from "@/public/assets/projects/hubAPI.jpg";
+import Demonstrateur from "@/public/assets/projects/demonstrateur.png";
 import DA from "@/public/assets/projects/dassault-aviation-rafale-falcon.jpg";
 import GA from "@/public/assets/projects/GA.png";
 import Planning from "@/public/assets/projects/Planning.png";
