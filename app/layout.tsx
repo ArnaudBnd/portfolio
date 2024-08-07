@@ -9,7 +9,7 @@ import "./globals.css";
 const jost = Jost({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Protfolio de Arnaud",
+  title: "Portfolio de Arnaud",
   description: "Développeur Full-Stack",
   applicationName: "Portfolio",
   openGraph: {
