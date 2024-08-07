@@ -9,16 +9,16 @@ import "./globals.css";
 const jost = Jost({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Arnaud Protfolio",
-  description: "A Full-Stack Developer",
+  title: "Protfolio de Arnaud",
+  description: "Développeur Full-Stack",
   applicationName: "Portfolio",
   openGraph: {
     type: "website",
-    url: "https://devarnaudbenede.vercel.app/",
-    title: "ArnaudBENEDE.Dev",
+    url: "https://arnaudbenede.com/",
+    title: "Arnaud BENEDE",
     description:
-      "Portfolio website developed with NextJS, TypeScript, ShadcnUI & GSAP.",
-    siteName: "Portfolio website",
+      "Portfolio développé avec NextJS, TypeScript, ShadcnUI & GSAP.",
+    siteName: "Portfolio",
   },
   authors: {
     name: "Arnaud BENEDE",

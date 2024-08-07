@@ -57,12 +57,12 @@ export default function ContactSection() {
         <div className="flex flex-col items-center gap-2">
           <div className="overflow-hidden">
             <div className="title-animation dark:text-white text-lg text-center">
-              Tu veux avoir plus de détails sur mes expériences ?
+              Vous voulez avoir plus de détails sur mes expériences ?
             </div>
           </div>
           <div className="overflow-hidden">
             <div className="title-animation text-5xl navlink text-accentColor">
-              Contacte moi!
+              Contactez moi!
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@ export default function ContactSection() {
             </div>
           </div>
           <div className="end-title dark:text-white text-md">
-            Impatient de pouvoir discuter avec toi ❤️
+            Impatient de pouvoir discuter avec vous ❤️
           </div>
         </div>
       </div>
