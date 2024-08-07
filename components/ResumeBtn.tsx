@@ -69,7 +69,7 @@ export default function ResumeBtn() {
   return (
     <a
       role="button"
-      href="https://drive.google.com/file/d/1WLx7teo-H4Ydg3XvVk_l0p---RzJuRLT/view?usp=drive_link"
+      href="https://drive.google.com/file/d/18MyJh5cPYgN1h8yHt25pXb0h_RirrTdZ/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Cv"
