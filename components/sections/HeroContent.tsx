@@ -68,7 +68,14 @@ export default function HeroContent() {
       </div>
 
       <div className="bio-animation dark:bg-[linear-gradient(#fff,rgba(255,255,255,.6))] inline-block text-black dark:text-transparent bg-clip-text text-md md:text-lg">
+
+      <Link
+          href="#project"
+          aria-label="project"
+          className="flex items-center gap-2 dark:text-gray-400"
+        >
         Venez voir mes expériences. 👇
+        </Link>
       </div>
 
       <Link
