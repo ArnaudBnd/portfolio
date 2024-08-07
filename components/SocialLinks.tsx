@@ -32,7 +32,7 @@ export default function SocialLinks() {
           aria-label="blog"
           className="flex text-xs group-hover:text-accentColor font-light tracking-[0.3em] items-center gap-2 dark:text-gray-400"
         >
-          Contact me
+          Contactez-moi par mail
         </Link>
         <div className="h-24 w-[0.4px] bg-gray-400 group-hover:bg-accentColor "></div>
       </div>

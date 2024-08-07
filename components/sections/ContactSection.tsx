@@ -62,7 +62,7 @@ export default function ContactSection() {
           </div>
           <div className="overflow-hidden">
             <div className="title-animation text-5xl navlink text-accentColor">
-              Contactez moi!
+              Contactez-moi!
             </div>
           </div>
         </div>
