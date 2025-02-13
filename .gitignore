@@ -4,6 +4,7 @@ node_modules/
 # Dossiers de sortie de build
 .next/
 out/
+.cursor
 
 .history/
 
