@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import useOnScreen from "@/hooks/useOnScreen";
 import useScrollActive from "@/hooks/useScrollActive";
 import PortailWeb from "@/public/assets/projects/portail-web.jpg";
+import Ummanite from "@/public/assets/projects/ummanite.png";
 import HubAPI from "@/public/assets/projects/hubAPI.jpg";
 import Demonstrateur from "@/public/assets/projects/demonstrateur.png";
 import DA from "@/public/assets/projects/dassault-aviation-rafale-falcon.jpg";
@@ -105,6 +106,17 @@ const projects: Project[] = [
   {
     id: 1,
     title:
+      "Ummanité association - 2024/Actuellement",
+    description:
+      "Développement fullstack et déploiement de la nouvelle version du site de l'association avec une infrastructure géré par Docker sur un VPS OVH.",
+    techStacks: ["NestJS", "TypeScript", "Angular"],
+    image: Ummanite,
+    githubURL: "",
+    githubApi: "",
+  },
+  {
+    id: 2,
+    title:
       "France Identité - Hub d'API pour l'application mobile - 2024/Actuellement",
     description:
       "Développement d'un Hub d'API afin d'importer le permis de conduire dans l'application mobile France Identité.",
@@ -114,7 +126,7 @@ const projects: Project[] = [
     githubApi: "",
   },
   {
-    id: 2,
+    id: 3,
     title: "Démonstateur API Particulier - 2023/2024",
     description:
       "Développement du démonstrateur API Particulier dédié aux fournisseurs de service FranceConnect.",
@@ -124,7 +136,7 @@ const projects: Project[] = [
     githubApi: "https://api.github.com/repos/ShinnTNT/music-player",
   },
   {
-    id: 3,
+    id: 4,
     title: "Attestation France Identité - Portail web - 2023/2024",
     description:
       "Développement de l'application Attestion France Identité visant à accélérer la simplificiation administrative.",
@@ -134,7 +146,7 @@ const projects: Project[] = [
     githubApi: "",
   },
   {
-    id: 4,
+    id: 5,
     title: "Dassault Aviation - Application classée secret Défense - 2020/2023",
     description:
       "Développement d'une application dédiée au secteur de l'aéronautique et de la défense.",
@@ -144,7 +156,7 @@ const projects: Project[] = [
     githubApi: "",
   },
   {
-    id: 5,
+    id: 6,
     title: "Planning - 2018/2020",
     description:
       "Participation au développement d'un outil permettant à la direction de savoir en temps réel les missions en cours, leurs conditions, les interlocuteurs, les collaborateurs ...",
@@ -154,7 +166,7 @@ const projects: Project[] = [
     githubApi: "",
   },
   {
-    id: 6,
+    id: 7,
     title: "Gestion d'activité - 2017/2018",
     description:
       "Participation au développement d'un outil destiné à afficher des informations sur l’activité de l'entreprise.",

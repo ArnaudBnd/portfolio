@@ -163,9 +163,18 @@ export default function AboutSection() {
                   développement de vos solutions from scratch.
                   <br />
                   <br />
-                  🛠 Mes compétences techniques: Node.js, Next.js, React.js,
-                  Nest.js, Express.js, Docker, MongoDB, BullMQ, Redis, KeyDB,
-                  JavaScript, HTML5, CSS3, SCSS, Git, Github, GitLab. <br />
+                  🛠 Mes compétences techniques récentes: 
+                  <br />
+                  FrontEnd : Next.js, TypeScript, React, Angular.<br />
+                  BackEnd : Nest.js, Node.js, Express.js.<br />
+                  API & Microservices : Rest APIs, architecture microservices, GraphQL (montée en compétences).<br />
+                  Infra : Docker, VPS OVH, Scalingo, Outscale, Vercel, API Gateway (Redirection HTTP vers HTTPS, Gestion SSL/TLS, Proxy inverse pour les services, Séparation des configurations par environnement...).<br />
+                  CI/CD : GitHub Actions, GitLab CI/CD, déploiement automatisé.<br />
+                  Cache : Redis, KeyDB.<br />
+                  Base de données : MongoDB, PostgreSQL, MySQL.<br />
+                  Message Broker : BullMQ, Redis.<br />
+                  Tests : Jest, React Testing Library, Sinon, Enzyme.<br />
+                  Utilisation : Stripe (paiements), Mailjet (emails).<br />
                   <br />
                   📃 Habitué à travailler en agile et en équipe, j’intègre la
                   communication au cœur de mon travail pour vous indiquer au
@@ -179,8 +188,7 @@ export default function AboutSection() {
                   <br />- <strong> Projets critiques : </strong>Expérience avec
                   Aubay, Dassault Aviation, Beta.gouv et le Ministère de
                   l'Intérieur.
-                  <br />- <strong>Architectures robustes : </strong>Conception
-                  de systèmes résistants et évolutifs.
+                  <br />- <strong>Architectures robustes : </strong>Conception de systèmes robustes et évolutifs en appliquant les principes du clean code et en approfondissant les patterns d'architecture.
                   <br />- <strong>Expérience variée : </strong>Adaptation rapide
                   grâce à mes différentes expériences chez Aubay, Dassault
                   Aviation, le Ministère de l'Intérieur et bêta.gouv. <br />

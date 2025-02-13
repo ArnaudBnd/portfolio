@@ -62,9 +62,7 @@ export default function HeroContent() {
       </div>
 
       <div className="w-[300px] md:w-[370px] relative z-30 text-center text-sm dark:bg-[linear-gradient(#fff,rgba(255,255,255,.6))] inline-block text-black dark:text-transparent bg-clip-text">
-        Développeur full-stack passionné et soucieux de la performance,
-        spécialisé dans la création d'applications Web complexes, robustes et
-        critiques. 🚀
+      Développeur full-stack passionné, mettant l'accent sur la création d'applications Web respectant les principes du <strong>clean code</strong> et les <strong>patterns d'architecture</strong>. 🚀
       </div>
 
       <div className="bio-animation dark:bg-[linear-gradient(#fff,rgba(255,255,255,.6))] inline-block text-black dark:text-transparent bg-clip-text text-md md:text-lg">
