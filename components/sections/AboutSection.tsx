@@ -168,7 +168,7 @@ export default function AboutSection() {
                   FrontEnd : Next.js, TypeScript, React, Angular.<br />
                   BackEnd : Nest.js, Node.js, Express.js.<br />
                   API & Microservices : Rest APIs, architecture microservices, GraphQL (montée en compétences).<br />
-                  Infra : Docker, VPS OVH, Scalingo, Outscale, Vercel, API Gateway (Redirection HTTP vers HTTPS, Gestion SSL/TLS, Proxy inverse pour les services, Séparation des configurations par environnement...).<br />
+                  Infra : Docker, VPS OVH, Scalingo, Outscale, Vercel, API Gateway (Redirection HTTP vers HTTPS, Gestion SSL/TLS, Reverse Proxy, Séparation des configurations par environnement...).<br />
                   CI/CD : GitHub Actions, GitLab CI/CD, déploiement automatisé.<br />
                   Cache : Redis, KeyDB.<br />
                   Base de données : MongoDB, PostgreSQL, MySQL.<br />
